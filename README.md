@@ -1,10 +1,10 @@
-# PHD-Notion-to-Obsidian
+# Notion-to-Obsidian
 
 Herramienta para migrar contenido desde Notion a Obsidian, convirtiendo ideas y notas en archivos Markdown enriquecidos con wikilinks automáticos para mejorar la visualización del grafo de conocimiento.
 
 ## Autor
 
-**Frney Córdoba Canchala**
+**Ferney Córdoba Canchala**
 
 ## Descripción
 
